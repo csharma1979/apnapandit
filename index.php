@@ -149,7 +149,7 @@
                         <li><a href="#home">Home</a></li>
                         <li><a href="#about">About Us</a></li>
                         <li><a href="#service">Services</a></li>
-                        <li><a target="_blank"  href="https://fritado.com/app/ecommerce/store/231622705305">Booking</a></li>
+                        <li><a target="_blank"  href="https://platform.fritado.com/">Booking</a></li>
                         <li><a href="#gallery">Gallery</a></li>
 						<li><a href="#contact">Contact Us</a></li>
 						
